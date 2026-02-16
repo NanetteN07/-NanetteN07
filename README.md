@@ -8,4 +8,4 @@ and I am a Student completing my Cloud Computing, Analytics and Security for Ind
 Currently, I am on a journey to, in due time, become an Apprentice in Software Engineering. My aim is to complete a coding project once a week to casually build up my portfolio. My previous experience includes voluntary work experience g at different software/IT companies in my local area.
 
 *   🌍  I'm based in Northern Ireland
-*   ✉️  You can contact me at [nowaknanette@outlook.com](mailto:nowaknanette@outlook.com)### Skills 
+*   ✉️  You can contact me at [nowaknanette@outlook.com](mailto:nowaknanette@outlook.com)
